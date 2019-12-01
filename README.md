@@ -9,7 +9,7 @@
 
 ## Profile
 
-...
+I have had a love for all things tech since I was little girl, when one afternoon my Dad loaded up 8 floppy disks of a game called DOOM and encouraged me to fight flying firebreathing blobs in a place called Hell. I have been fasicnated by what computers can do and how we can utelise them to make our lives richer ever since. After many years working adjacent to all the technology I wanted to learn, I decided to take the plunge this year and immersive myself in the Makers Bootcamp. I have loved every minute of this whirwind experience and am so excited by the prospect of working as a full time Software Developer.
 
 #### Key Skills
 - JavaScript, React, jQuery, Jasmine
@@ -30,12 +30,17 @@ Bank Tech Test | A bank API to deposit & withdraw money | Ruby, Rspec, Rubocop, 
 
 ## Skills
 
-#### 1
+#### Teamwork
 
+In my previous role, I worked with many different teams across all disciplines. Focusing on collaboration and communication was key to working alongside people with different motivations in order to achieve results. 
 
-#### 2
+### Communication
 
-#### 3
+Communicating effectively with a wide range of people was an important part of my last role, which involved constant contact with clients and internal teams.
+
+### Self-motivated
+
+I have been dedicated to learning and improving myself all throughout my career, and it is this drive and determination which led me to Makers and carried me through the course. I’m really passionate about being a good developer and spend a lot of my spare time working through tutorials, reading up on concepts and reaching out to other coders for advice. I'm able to set my own goals and work towards them in a methodical and pragmatic way.
 
 
 ## Experience
@@ -72,5 +77,5 @@ Intensive 16 week bootcamp with a focus on:
 - Video games: Currently playing Death Stranding. Favourites include the Dark Souls series.
 - Rambling: Love a long walk & getting lost in the countryside!
 - Hot Yoga and meditation
-- Singing & Voiceovers: dabbling in a few lessons. 
+- Voiceover: dabbled in some training and record pieces for fun.
 - Podcasts: Reply-all, The Moth, The Guilty Feminist, IGN UK...
