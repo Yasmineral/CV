@@ -9,7 +9,7 @@
 
 ## Profile
 
-I have had a love for all things tech since I was little girl, when one afternoon my Dad loaded up 8 floppy disks of a game called DOOM and encouraged me to fight flying firebreathing blobs in a place called Hell. I have been fasicnated by what computers can do and how we can utelise them to make our lives richer ever since. After many years working adjacent to all the technology I wanted to learn, I decided to take the plunge this year and immersive myself in the Makers Bootcamp. I have loved every minute of this whirwind experience and am so excited by the prospect of working as a full time Software Developer.
+I have had a love for all things tech since I was a little girl, when one afternoon my Dad loaded up 8 floppy disks of a game called DOOM and encouraged me to fight flying fire breathing blobs in a place called Hell. I have been fascinated by what computers can do and how we can utilize them to make our lives richer ever since. After many years working adjacent to all the technology I wanted to learn, I decided to take the plunge this year and immersive myself in the Makers Bootcamp. I have loved every minute of this whirlwind experience and am so excited by the prospect of working as a full time Software Developer.
 
 #### Key Skills
 - JavaScript, React, jQuery, Jasmine
