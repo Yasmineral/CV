@@ -41,11 +41,14 @@ Bank Tech Test | A bank API to deposit & withdraw money | Ruby, Rspec, Rubocop, 
 ## Experience
 
 **Shazam Entertainment** (July 2013 to December 2018) 
+
 *Senior Client Services Manager*
 - Co-ordinated all digital solutions across European and Canadian markets with the assistance of two junior members of staff.
 - Acted as principal liaison between clients, external vendors, and internal technical teams to deliver interactive mobile solutions through a range of products including TV, Print & in-app media.
 - Oversaw the pre-launch QA process for all campaign builds. Stayed afloat of technical developments and platform capabilities to help troubleshoot and navigate potential issues. 
 - Worked alongside the Director to develop key documentation and implement global processes to track pipeline activity, promote collaboration and to surface insights & benchmarks.
+- Managed and supported a team of junior executives in the day-to-day performance of their roles, appropriately distributing workload dependent on skill and experience. Worked closely to set clear career goals and track progression through regular meetings. 
+- Nurtured and maintained reseller partnerships, supporting them on all commercial conversations and new business pitches . Travelled to offices across Europe to on-board new teams and update existing partners on the latest product offerings & Shazam capabilities.
 
 
 ## Education
