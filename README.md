@@ -30,7 +30,7 @@ Bank Tech Test | A bank API to deposit & withdraw money | Ruby, Rspec, Rubocop, 
 
 ## Skills
 
-#### Teamwork
+### Teamwork
 
 In my previous role, I worked with many different teams across all disciplines. Focusing on collaboration and communication was key to working alongside people with different motivations in order to achieve results. 
 
