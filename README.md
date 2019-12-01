@@ -9,7 +9,7 @@
 
 ## Profile
 
-
+...
 
 #### Key Skills
 - JavaScript, React, jQuery, Jasmine
