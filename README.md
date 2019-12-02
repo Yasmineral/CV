@@ -48,12 +48,16 @@ I have been dedicated to learning and improving myself all throughout my career,
 **Shazam Entertainment** (July 2013 to December 2018) 
 
 *Senior Client Services Manager*
-- Co-ordinated all digital solutions across European and Canadian markets with the assistance of two junior members of staff.
-- Acted as principal liaison between clients, external vendors, and internal technical teams to deliver interactive mobile solutions through a range of products including TV, Print & in-app media.
-- Oversaw the pre-launch QA process for all campaign builds. Stayed afloat of technical developments and platform capabilities to help troubleshoot and navigate potential issues. 
-- Worked alongside the Director to develop key documentation and implement global processes to track pipeline activity, promote collaboration and to surface insights & benchmarks.
-- Managed and supported a team of junior executives in the day-to-day performance of their roles, appropriately distributing workload dependent on skill and experience. Worked closely to set clear career goals and track progression through regular meetings. 
-- Nurtured and maintained reseller partnerships, supporting them on all commercial conversations and new business pitches . Travelled to offices across Europe to on-board new teams and update existing partners on the latest product offerings & Shazam capabilities.
+
+Co-ordinated all digital solutions across European and Canadian markets with the assistance of two junior members of staff. Acted as principal liaison between clients, external vendors, and internal technical teams to deliver interactive mobile solutions through a range of products including TV, Print & in-app media.
+
+* Developed client relationships to the highest standard, leading them through the creative, production and legal process of connecting Shazam users with their brand in a meaningful way. 
+* Nurtured and maintained reseller partnerships, supporting them on all commercial conversations and new business pitches . Travelled to offices across Europe to on-board new teams and update existing partners on the latest product offerings & Shazam capabilities.
+* Managed and supported a team of junior executives in the day-to-day performance of their roles, appropriately distributing workload dependent on skill and experience. Worked closely to set clear career goals and track progression through regular meetings. 
+* Worked alongside the Director to develop key documentation and implement global processes to track pipeline activity, promote collaboration and to surface insights & benchmarks.
+* Collaborated with Data & Research teams to interpret, articulate and formulate client analysis and success stories in post-campaign recap decks. 
+* Worked closely with the Shazam Ad Operations team to manage the in-app media campaign implementation process, ensuring the smooth running, optimisation and co-ordination of sold media campaigns. 
+* Oversaw the pre-launch QA process for all campaign builds. Stayed afloat of technical developments and platform capabilities to help troubleshoot and navigate potential issues. 
 
 
 ## Education
