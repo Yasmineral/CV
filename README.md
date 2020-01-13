@@ -1,13 +1,10 @@
-
 <a href="https://www.linkedin.com/in/yasmine-kemp-87582758/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
 # Yas Kemp
 
-**Junior Full Stack Developer**
+## [Background](#background) || [Projects](#projects) || [Skills](#skills) || [Experience](#experience) || [Education](#education) || [Interests](#interests)
 
-## [Profile](#profile) || [Projects](#projects) || [Skills](#skills) || [Experience](#experience) || [Education](#education) || [Hobbies](#hobbies)
-
-## Profile
+## Background
 
 I have had a love for all things tech since I was a little girl, when one afternoon my Dad loaded up 8 floppy disks of a game called DOOM and encouraged me to fight fire breathing demons in a place called Hell. I have been fascinated by what computers can do and how we can utilize them to make our lives richer ever since. After many years working adjacent to all the technology I wanted to learn, I decided to take the plunge this year and immersive myself in the Makers Bootcamp. I have loved every minute of this whirlwind experience and am so excited by the prospect of working as a full time Software Developer.
 
@@ -77,7 +74,7 @@ Intensive 16 week bootcamp with a focus on:
 - 10 GCSE’s (A-B)
 
 
-## Hobbies
+## Interests
 - Video games: Currently playing Death Stranding. Favourites include the Dark Souls series.
 - Rambling: Love a long walk & getting lost in the countryside!
 - Hot Yoga and meditation
