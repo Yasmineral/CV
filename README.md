@@ -6,14 +6,7 @@
 
 ## Background
 
-I have had a love for all things tech since I was a little girl, when one afternoon my Dad loaded up 8 floppy disks of a game called DOOM and encouraged me to fight fire breathing demons in a place called Hell. I have been fascinated by what computers can do and how we can utilize them to make our lives richer ever since. After many years working adjacent to all the technology I wanted to learn, I decided to take the plunge this year and immersive myself in the Makers Bootcamp. I have loved every minute of this whirlwind experience and am so excited by the prospect of working as a full time Software Developer.
-
-#### Key Skills
-- JavaScript, React, jQuery, Jasmine
-- Ruby, Rails, RSpec, Sinatra, Capybara
-- Travis CI, Heroku, Git, Html, CSS, Bootstrap
-- Agile Methodologies
-- TDD and Debugging
+I have had a love for all things tech since I was a little girl, when one afternoon my Dad loaded up 8 floppy disks of a game called DOOM and encouraged me to fight fire breathing demons in a place called Hell. Ever since, I have been fascinated by what computers can do and how we can utilize them to make our lives richer. After many years working adjacent to all the technology I wanted to learn, I decided to take the plunge this year and immersive myself in the Makers Bootcamp. I have loved every minute of this whirlwind experience and am so excited by the prospect of working as a full time Software Developer.
 
 
 ## Projects
@@ -62,10 +55,11 @@ Co-ordinated all digital solutions across European and Canadian markets with the
 #### Makers Academy (Sep '19 - Dec '19)
 
 Intensive 16 week bootcamp with a focus on:
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine, Capybara
-- OOP, TDD, MVC,
-- Agile/XP
+- JavaScript, React, jQuery, Jasmine
+- Ruby, Rails, RSpec, Sinatra, Capybara
+- Travis CI, Heroku, Git, Html, CSS, Bootstrap
+- OOP, TDD, Debugging
+- Agile & XP Methodologies
 
 
 #### The St Marylebone CE School 
@@ -75,7 +69,7 @@ Intensive 16 week bootcamp with a focus on:
 
 
 ## Interests
-- Video games: Currently playing Death Stranding. Favourites include the Dark Souls series.
+- Video games: the challenging, enaging and endlessly fun. Favourites include the Dark Souls series.
 - Rambling: Love a long walk & getting lost in the countryside!
 - Hot Yoga and meditation
 - Voiceover: dabbled in some training and record pieces for fun.
