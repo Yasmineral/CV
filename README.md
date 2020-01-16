@@ -30,7 +30,7 @@ I have been dedicated to learning and improving myself all throughout my career,
  
 ### Attention to detail
 
-My past experience has taught me how to pay very close attention to the details of the task at hand. More often than not, I would have several campaigns in production and it was imperative that each one be managed with careful consideration to the unique requirements. Software development is very similar in this regard - user requirements dictate the focus of the programme and how it should work with the end user in mind. This skill has helped me through the challenges of the intensive course at Makers Academy, and I believe it is something that will also help me to succeed in my new career in tech.
+My past experience has taught me how to pay very close attention to the details of the task at hand. More often than not, I would have several campaigns in production and it was imperative that each one be managed with careful consideration to the unique requirements. Software development is very similar in this regard - user requirements dictate the focus of the programme and how it should work with the end user in mind. A missed detail can cost hours. This skill has helped me through the challenges of the intensive course at Makers Academy, and I believe it is something that will also help me to succeed in my new career in tech.
 
 
  
