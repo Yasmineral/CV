@@ -1,6 +1,7 @@
 <a href="https://www.linkedin.com/in/yasmine-kemp-87582758/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
 # Yas Kemp
+yasnkemp@gmail.com
 
 ## [Background](#background) || [Projects](#projects) || [Skills](#skills) || [Experience](#experience) || [Education](#education) || [Interests](#interests)
 
