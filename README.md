@@ -57,19 +57,19 @@ Co-ordinated all digital solutions across European and Canadian markets with the
 #### Makers Academy (Sep '19 - Dec '19)
 
 Intensive 16 week bootcamp with a focus on:
-- JavaScript, React, jQuery, Jasmine
-- Ruby, Rails, RSpec, Sinatra, Capybara
-- Travis CI, Heroku, Git, Html, CSS, Bootstrap
-- OOP, TDD, Debugging
-- Agile & XP Methodologies
+* JavaScript, React, jQuery, Jasmine
+* Ruby, Rails, RSpec, Sinatra, Capybara
+* Travis CI, Heroku, Git, Html, CSS, Bootstrap
+* OOP, TDD, Debugging
+* Agile & XP Methodologies
 
 
 ## Interests
-- Video games: the more challenging & frustrating, the better! Favourites include the Dark Souls series.
-- Health and wellbeing: my new favourite thing is Hot Yoga, such sweaty fun. I also regularly mediate, go on long rambly walks, swim in the ladies pond at Hampstead Heath (trying to work myself up to a winter swim!) and cook brightly coloured meals with lots of lovely ingredients. 
-- Podcasts: Reply-all, The Moth, The Guilty Feminist, IGN UK...
+* Video games: the more challenging & frustrating, the better! Favourites include the Dark Souls series.
+* Health and wellbeing: my new favourite thing is Hot Yoga, such sweaty fun. I also regularly mediate, go on long rambly walks, swim in the ladies pond at Hampstead Heath (trying to work myself up to a winter swim!) and cook brightly coloured meals with lots of lovely ingredients. 
+* Podcasts: Reply-all, The Moth, The Guilty Feminist, IGN UK...
 
 ## Contact
 
-Email: yasnkemp@gmail.com
-Phone: 07894 233818
+* Email: yasnkemp@gmail.com
+* Phone: 07894 233818
