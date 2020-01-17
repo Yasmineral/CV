@@ -70,5 +70,6 @@ Intensive 16 week bootcamp with a focus on:
 - Podcasts: Reply-all, The Moth, The Guilty Feminist, IGN UK...
 
 ## Contact
+
 Email: yasnkemp@gmail.com
 Phone: 07894 233818
