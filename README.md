@@ -73,3 +73,4 @@ Intensive 16 week bootcamp with a focus on:
 
 * Email: yasnkemp@gmail.com
 * Phone: 07894 233818
+* Linkedin: yas-kemp
