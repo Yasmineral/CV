@@ -22,7 +22,7 @@ Bank Tech Test | A bank API to deposit & withdraw money | Ruby, Rspec, Rubocop, 
 
 ### Communication
 
-In my previous career within Digital Advertising, having excellent communication skills was key to understanding the needs of our clients and to help turn their ideas into shiny final products. My day to day involved constant contact between internal teams and external partners to keep goals on target and ensure the differing needs between all parties were being met. 
+In my previous career within Digital Advertising, having excellent communication skills was key to understanding the needs of our clients to turn their ideas into shiny final products. My day to day involved constant contact between internal teams and external partners to keep goals on target and ensure the differing needs between all parties were being met. 
 
 ### Continuous development
 
