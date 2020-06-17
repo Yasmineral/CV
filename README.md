@@ -26,11 +26,11 @@ In my previous career within Digital Advertising, having excellent communication
 
 ### Continuous development
 
-I have been dedicated to learning and improving myself all throughout my career, and it is this drive and determination which led me to Makers and carried me through the course. I’m really passionate about being a good developer and spend a lot of my spare time working on personal projects, meeting up with other coders to share knowledge, attending meet-ups and most recently, have started volunteering at a Code Club to help teach code to Primary school children. Every day I become a stronger dev but the scale of what I don't know becomes clearer as well. New developments mean opportunities to grow are never-ending.
+I have been dedicated to learning and improving myself all throughout my career, and it is this drive and determination which led me to Makers and carried me through the course. I’m really passionate about being a good developer and spend a lot of my spare time working on personal projects, meeting up with other coders to exchange knowledge, attending meet-ups, and most recently, have started volunteering at a Code Club to help teach code to Primary school children. Every day I become a stronger dev but the scale of what I don't know becomes clearer as well. New developments mean opportunities to grow are never-ending.
  
 ### Attention to detail
 
-My past experience has taught me how to pay very close attention to the details of the task at hand. More often than not, I would have several campaigns in production and it was imperative that each one be managed with careful consideration to the unique requirements. Software development is very similar in this regard - user requirements dictate the focus of the programme and how it should work with the end user in mind. A missed detail can cost hours. This skill has helped me through the challenges of the intensive course at Makers Academy, and I believe it is something that will also help me to succeed in my new career in tech.
+My past experience has taught me how to pay very close attention to the details of the task at hand. More often than not, I would have several campaigns in production and it was imperative that each one be managed with careful consideration to the specific unique requirements. Software development is very similar in this regard - user requirements dictate the focus of the programme and how it should work with the end user in mind. A missed detail could cost hours. This skill has helped me through the challenges of the intensive course at Makers Academy, and I believe it is something that will also help me to succeed in my new career in tech.
 
 
  
