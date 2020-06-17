@@ -14,8 +14,9 @@ I have had a love for all things tech since I was a little girl, when one aftern
 Title | Description | Tech Used | Review | Link
 --- | --- | --- | --- | ---
 Acebook: Short Ferret Midnight | Worked in a team of 6 to produce a social media platform. | Ruby, Rails, Heroku, Travis CI, Bootstrap, Rspec, Capybara, Rubocop, Codeclimate | Developed strong Agile practices & better understanding of Rails and Active Record | [Blog](https://medium.com/@shortferretmignight), [GitHub](https://github.com/Yasmineral/acebook-short-ferret-midnight)
-Wordball | My Makers final project. Worked in a team of 4 to build a physics based word spelling game | Javascript, jquery, React, MongoDB, Express | Week 1 went exceptionally well with our main prototype ready & working. Week 2 aims to integrate React. | [GitHub](https://github.com/Yasmineral/wordball)
+Wordball | My Makers final project. Worked in a team of 4 to build a physics based word spelling game | Javascript, jquery, React, MongoDB, Express | Week 1 was spent building the prototype and getting the basics working. Week 2 aimed to integrate React for a more seamless experience. | [GitHub](https://github.com/Yasmineral/wordball)
 Bank Tech Test | A bank API to deposit & withdraw money | Ruby, Rspec, Rubocop, Simplecov | My first experience writing a tech test to deadline & documenting a full README | [GitHub](https://github.com/Yasmineral/Bank_tech_test)
+Chitter | A Twitter clone | Node, Javascript, Express, Sequelize, Postgres, Jest | A personal project to help further my understanding of web api's | [Github](https://github.com/Yasmineral/chitter-node)
 
 
 ## Skills
