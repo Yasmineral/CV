@@ -6,7 +6,7 @@
 
 ## Background
 
-I have had a love for all things tech since I was a little girl, when one afternoon my Dad loaded up 8 floppy disks of a game called DOOM and encouraged me to fight flying demons in a fiery place called Hell. Ever since, I have been fascinated by what computers can do and how we can utilize them to make our lives richer. After many years working adjacent to all the technology I found so compelling, I decided to take the plunge in August of last year and immerse myself in the Makers Bootcamp. I have loved every minute of this whirlwind experience and am so excited to finally begin my career in Software Development.
+I have had a love for all things tech since I was a little girl, when one afternoon my Dad loaded up 8 floppy disks of a game called DOOM and encouraged me to fight flying demons in a fiery place called Hell. Ever since, I have been fascinated by what computers can do and how we can utilize them to make our lives more magical. After many years working adjacent to all the technology I found so compelling, I decided to take the plunge in August of last year and immerse myself in the Makers Bootcamp. I have loved every minute of this whirlwind experience and am so excited to finally begin my career in Software Development.
 
 
 ## Projects
